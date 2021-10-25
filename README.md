@@ -7,7 +7,7 @@ C108133212  | 吳少杰
 0624021     | 郭品呈
 C107118215  | 黃昱景
 ## 甘特圖
-![HW1-1](https://github.com/emotion0809/2021-3B/blob/main/HW2-1.png)
+![HW1-1](https://github.com/emotion0809/group1/blob/main/%E7%B3%BB%E7%B5%B1%E5%88%86%E6%9E%90%E6%9C%9F%E6%9C%AB%E5%B0%88%E9%A1%8C%E7%94%98%E7%89%B9%E5%9C%96.png)
 ## PERT/CPM圖
 ## 關鍵路徑
 ## 內容
