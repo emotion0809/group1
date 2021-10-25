@@ -13,4 +13,5 @@ C107118215  | 黃昱景
 ## 內容
 ## 工作分配
 ## 工作結構清單
+![image](https://user-images.githubusercontent.com/85775623/138720749-11e10648-35fa-49c8-bce0-1cfc8dfd42dc.png)
 
