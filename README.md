@@ -37,5 +37,5 @@ C107118215  | 黃昱景
 4. 效能(performance)：不需耗費大量記憶體與CPU且執行快速的小程式。
 5. 維護性(maintainability)：主要採用Android studio開發，腳本部分使用JAVA運行，使用大小寫命名法。
 ## 工作結構清單
-![FFD](https://user-images.githubusercontent.com/85775623/138720749-11e10648-35fa-49c8-bce0-1cfc8dfd42dc.png)
+![FFD](https://github.com/emotion0809/group1/blob/main/FFD.png)
 
