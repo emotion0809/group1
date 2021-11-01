@@ -77,4 +77,5 @@ C107118215  | 黃昱景
 | 後置條件 | 使用者可修改當天的日記 | 
 | 假設 | 無 | 
 
-##DFD圖
+## DFD圖
+![DFD](https://github.com/emotion0809/group1/blob/main/DFD.png)
