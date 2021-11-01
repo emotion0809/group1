@@ -40,4 +40,6 @@ C107118215  | 黃昱景
 5. 維護性(maintainability)：主要採用Android studio開發，腳本部分使用JAVA運行，使用大小寫命名法。
 ## 工作結構清單
 ![FFD](https://github.com/emotion0809/group1/blob/main/FFD.png)
+## 使用案例圖
+![使用案例圖](https://github.com/emotion0809/group1/blob/main/%E4%BD%BF%E7%94%A8%E6%A1%88%E4%BE%8B%E8%AA%AA%E6%98%8E.png)
 
