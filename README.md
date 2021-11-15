@@ -79,3 +79,5 @@ C107118215  | 黃昱景
 
 ## DFD圖
 ![DFD](https://github.com/emotion0809/group1/blob/main/DFD.png)
+## UML類別圖
+![UML](https://github.com/emotion0809/group1/blob/main/UMLclass.jpg)
