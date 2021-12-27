@@ -78,7 +78,7 @@ C107118215  | 黃昱景
 | 假設 | 無 | 
 
 ## DFD圖
-![DFD](https://github.com/emotion0809/group1/blob/main/DFD.png)
+![DFD](https://github.com/emotion0809/group1/blob/main/DFD%E5%9C%96.pngg)
 ## UML類別圖
 ![UML](https://github.com/emotion0809/group1/blob/main/UMLclass.jpg)
 ## 循序圖與活動圖
