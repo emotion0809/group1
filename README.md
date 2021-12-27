@@ -87,7 +87,7 @@ C107118215  | 黃昱景
 ![act](https://github.com/emotion0809/group1/blob/main/activity1.png)
 ![act](https://github.com/emotion0809/group1/blob/main/activity2.png)
 ![act](https://github.com/emotion0809/group1/blob/main/activity3.png)
-##分鏡板
+## 分鏡板
 ![U!1](https://github.com/emotion0809/group1/blob/main/UI%E4%BB%8B%E9%9D%A21.png)
 ![U!2](https://github.com/emotion0809/group1/blob/main/UI%E4%BB%8B%E9%9D%A2%202.png)
 ## 實體關係圖
