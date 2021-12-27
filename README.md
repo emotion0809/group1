@@ -79,6 +79,8 @@ C107118215  | 黃昱景
 
 ## DFD圖
 ![DFD](https://github.com/emotion0809/group1/blob/main/DFD%E5%9C%96.png)
+## DFD圖0
+![DFD圖0](https://github.com/emotion0809/group1/blob/main/DFD%E5%9C%960.png)
 ## UML類別圖
 ![UML](https://github.com/emotion0809/group1/blob/main/UMLclass.jpg)
 ## 循序圖與活動圖
