@@ -70,7 +70,7 @@ C107118215  | 黃昱景
 | 使用案例名稱  | 日記  | 
 | :------------: |:---------------------------------------------------|
 | 行動者 | 使用者 | 
-| 說明 | 描述使用者點擊「指定價格範圍」的過程 　　　| 
+| 說明 | 描述使用者點擊編輯日記的過程 　　　| 
 | 完成動作 | 1. 使用者點選日記功能 <br> 2. 開始編輯當天的日記 | 
 | 替代方法 | 無 |  
 | 先決條件 | 無 |
@@ -92,3 +92,10 @@ C107118215  | 黃昱景
 ![U!2](https://github.com/emotion0809/group1/blob/main/UI%E4%BB%8B%E9%9D%A2%202.png)
 ## 實體關係圖
 ![實體關係圖](https://github.com/emotion0809/group1/blob/main/%E5%AF%A6%E9%AB%94%E9%97%9C%E4%BF%82%E5%9C%96.png)
+
+
+## 程式碼 GITHUB
+https://github.com/emotion0809/Calendar
+
+## DEMO影片
+https://youtu.be/ioa2_F6Lens
